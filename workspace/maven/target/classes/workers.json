@@ -1,0 +1,32 @@
+[
+	{
+            "name":"Kovalchuk Vasyl",
+            "position":"QA Automation Junior",
+	    "salary":"600"
+        },
+	{
+            "name":"Kovalisko Natalia",
+            "position":"Manual QA Junior",
+	    "salary":"400"
+        }, 
+	{
+            "name":"Rabchevska Oksana",
+            "position":"Manual QA Junior",
+	    "salary":"400"
+        },
+        {
+            "name":"Ivanov Oleg",
+            "position":"Senior Java Developer",
+	    "salary":"3000"
+        },
+        {
+            "name":"Ivanov Oleg",
+            "position":"QA Automation Junior",
+	    "salary":"600"
+        },
+        {
+            "name":"Ivanov Oleg",
+            "position":"Middle Java Developer",
+	    "salary":"2200"
+        }
+    ]
